@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Phone Thant Zaw</h1>
-<h3 align="center">A passionate Java FullStack developer</h3>
+<h3 align="center">A passionate Software Engineering</h3>
 
         
 - 🛠️ Java,JavaScript,Microservices,Spring,SpringBoot,Nodejs,Angular,React
