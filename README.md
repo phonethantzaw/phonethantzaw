@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Phone Thant Zaw</h1>
+<h1 align="center">Hi 👋, I'm Phone </h1>
 <h3 align="center">A passionate Software Engineering</h3>
 
         
-- 🛠️ Java,JavaScript,Microservices,Spring,SpringBoot,Nodejs,Angular,React
+- 🛠️ Java,JavaScript,Python,Microservices,Spring,SpringBoot,Nodejs,Angular,React
 
 - 💬 Ask me about anything,I'm happy to help!
 
